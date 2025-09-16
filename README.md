@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @tsheringphuntsho18
-- 👀 I’m interested in playing games, watching reels, cooking and of course coding. 
-- 🌱 I’m currently learning master in the field of computer.
-- 💞️ I’m looking to collaborate on google.
-- 📫 How to reach me? it's simple, just call 77277687.
-- 😄 Pronouns: pulu, only pulu.
-- ⚡ Fun fact: I inhale and exhale from nose
+# Hi there, I'm Tshering Phuntsho 👋
 
-<!---
-tsheringphuntsho18/tsheringphuntsho18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **University Student | Aspiring Software Engineer**
+
+Welcome to my GitHub! I’m currently a university student pursuing a degree in Software Engineering. I’m passionate about learning new things and constantly striving to expand my skills—both in tech and beyond.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React Native, Next.js, Node.js, Hono
+- **Design & Testing:** UI/UX, Postman
+- **Cybersecurity:** Fundamental principles and best practices
+- **Databases:** MySQL, MongoDB, PostgreSQL, pgAdmin
+
+---
+
+## 🌱 About Me
+
+- 🚀 Always eager to learn and explore new technologies
+- 🎯 My goal: Achieve financial stability through my passion for tech
+- ⚽ Outside of programming, you’ll find me on the football field
+
+---
+
+## 🔗 Connect with Me
+
+- [Instagram](https://www.instagram.com/phuntshok_18/) 
+
+---
+
+> “Keep learning, keep growing.”
+
+
