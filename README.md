@@ -8,11 +8,12 @@ Welcome to my GitHub! I’m currently a university student pursuing a degree in 
 
 ## Tech Stack & Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React Native, Next.js, Node.js, Hono
-- **Design & Testing:** UI/UX, Postman
-- **Cybersecurity:** Fundamental principles and best practices
+- **Languages:** Python, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React Native, Next.js, Node.js, Hono, RESTful APIs
+- **Tools** GitHub, Figma, VS Code, Postman, Burp Suite, Docker, Kubernetes, AWS
+- **Cybersecurity:** Networking, Digital Forensics, Basic Penetration Testing
 - **Databases:** MySQL, MongoDB, PostgreSQL, pgAdmin
+- **Soft skill:** Teamwork, Communication, Problem Solving, Adaptability
 
 ---
 
